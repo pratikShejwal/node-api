@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<your-username>/create-prtk-nodekit.git"
+    "url": "git+https://github.com/pratikShejwal/create-prtk-nodekit.git"
   },
   "bugs": {
-    "url": "https://github.com/<your-username>/create-prtk-nodekit/issues"
+    "url": "https://github.com/pratikShejwal/create-prtk-nodekit/issues"
   },
-  "homepage": "https://github.com/<your-username>/create-prtk-nodekit#readme",
+  "homepage": "https://github.com/pratikShejwal/create-prtk-nodekit#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
